@@ -5,8 +5,9 @@ PHP Login &amp; Users Management
 
 The goal of this project is to provide a secure user management system which can easily be adapted to any project's needs. 
 Requirements
-PHP
-MySql
+==============
+- PHP
+- MySQL
 
 Licence
 ================
